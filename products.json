@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Prosciutto e funghi.",
+        "price": 100.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": " Neapolitan Pizza",
+        "price": 94.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Neapolitan small Pizza",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Margherita small Pizza",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "../images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "California medium Pizza",
+        "price": 66.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Capricciosa small Pizza",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Diavola Pizza",
+        "price": 110.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Capricciosa Pizza",
+        "price": 99.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Capricciosa medium Pizza",
+        "price": 54.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    }
+  ]
+}
